@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-mosaic-mask"
+description = "ComfyUI-Mosaic-Mask is an automatic tool designed to detect and mask mosaic areas in input images."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/okgo4/ComfyUI-Mosaic-Mask"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Mosaic-Mask"
+Icon = ""
